@@ -1,5 +1,5 @@
 # First round
-[sample-chile-menu(/img/sample-chile-menu.png)
+[sample-chile-menu](/img/sample-chile-menu.png)
 
 This is a menu in a hotel of Chile. Please first recognize the scripts of all names and prices of the dishes. Please organize the output in json. For example, the json output for one dish should look like this:
 
